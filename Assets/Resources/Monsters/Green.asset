@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f07af87030259f044b6d5191ba98c609, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: 
+  skin: {r: 0, g: 1, b: 0.055678368, a: 0}
+  health: 100
+  damage: 10
+  cooldownAttack: 1
+  moveSpeed: 0.05
+  experience: 35
+  haveAbility: 1
+  ability: 1
+  cooldownTime: 15
+  durationTime: 7
+  detectionRange: 10
+  abilitySpeedBuff: 0.01
+  abilityDamage: 0
+  abilityRadius: 5
+  vfxExecute: {fileID: 8902956928751753827, guid: af0c66f5bdd60194aaa2b3d50d84d5f2, type: 3}

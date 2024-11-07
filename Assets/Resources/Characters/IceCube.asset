@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 072cf053faa97134f8d310464657045f, type: 3}
+  m_Name: IceCube
+  m_EditorClassIdentifier: 
+  Avatar: {fileID: 21300000, guid: 5e6caca2ecd1ef641b368f8321f89ad0, type: 3}
+  Health: 750
+  Damage: 35
+  AttackSpeed: 0.8
+  MoveSpeed: 6
+  AttackRange: 6
+  NumberTarget: 1
+  PercentExpBonusEarn: 100
+  Ability1: 8
+  Ability2: 1
